@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Oleggi/robofriends-with-redux/static/css/main.8e38acae.chunk.css",
+    "main.js": "/Oleggi/robofriends-with-redux/static/js/main.095a8e3f.chunk.js",
+    "main.js.map": "/Oleggi/robofriends-with-redux/static/js/main.095a8e3f.chunk.js.map",
+    "runtime-main.js": "/Oleggi/robofriends-with-redux/static/js/runtime-main.be24fb58.js",
+    "runtime-main.js.map": "/Oleggi/robofriends-with-redux/static/js/runtime-main.be24fb58.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Oleggi/robofriends-with-redux/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.27dbe529.chunk.js": "/Oleggi/robofriends-with-redux/static/js/2.27dbe529.chunk.js",
+    "static/js/2.27dbe529.chunk.js.map": "/Oleggi/robofriends-with-redux/static/js/2.27dbe529.chunk.js.map",
+    "index.html": "/Oleggi/robofriends-with-redux/index.html",
+    "precache-manifest.1b53b93c9e0d47e89c96ec3a84b5c013.js": "/Oleggi/robofriends-with-redux/precache-manifest.1b53b93c9e0d47e89c96ec3a84b5c013.js",
+    "service-worker.js": "/Oleggi/robofriends-with-redux/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Oleggi/robofriends-with-redux/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.8e38acae.chunk.css.map": "/Oleggi/robofriends-with-redux/static/css/main.8e38acae.chunk.css.map",
+    "static/js/2.27dbe529.chunk.js.LICENSE.txt": "/Oleggi/robofriends-with-redux/static/js/2.27dbe529.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Oleggi/robofriends-with-redux/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be24fb58.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.27dbe529.chunk.js",
+    "static/css/main.8e38acae.chunk.css",
+    "static/js/main.095a8e3f.chunk.js"
+  ]
+}
